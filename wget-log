@@ -1,0 +1,14 @@
+--2020-11-15 05:02:37--  https://192.168.100.100/software/avctKVM.jar
+Connecting to 192.168.100.100:443... connected.
+WARNING: cannot verify 192.168.100.100's certificate, issued by ‘CN=iDRAC6 default certificate,OU=Remote Access Group,O=Dell Inc.,L=Round Rock,ST=Texas,C=US’:
+  Self-signed certificate encountered.
+    WARNING: certificate common name ‘iDRAC6 default certificate’ doesn't match requested host name ‘192.168.100.100’.
+HTTP request sent, awaiting response... 200 OK
+Length: 1006154 (983K) [application/octet-stream]
+Saving to: ‘avctKVM.jar.7’
+
+avctKVM.jar.7                          78%[========================================================>                 ] 768.00K  1.40KB/s    eta 83s    avctKVM.jar.7                          99%[========================================================================> ] 974.00K  2.06KB/s    eta 83s    avctKVM.jar.7                         100%[=========================================================================>] 982.57K  2.09KB/s    in 4m 57s  
+
+utime(avctKVM.jar.7): No such file or directory
+2020-11-15 05:07:38 (3.31 KB/s) - ‘avctKVM.jar.7’ saved [1006154/1006154]
+
